@@ -1,0 +1,60 @@
+*{	padding:0px;
+	margin:0px;
+	text-align: center;}
+
+.Margen{	width:1024px;
+			
+			margin:0px auto;
+			font-family:Arial;
+			float:right;
+		}
+
+.Margen1{	width:700px;
+			height:auto;
+			margin:0px auto;
+			
+			}
+
+.img1{	background-color: #FC4EF1;
+		float: left;
+		border:5px solid #000;}
+
+.imgM, .ini2{ background-color: #FC4EF1;
+		float: right;
+		border:5px solid #000;}
+
+.img2, .ini{	background-color: #00F;
+		float: right;
+		border:5px solid #000;}
+
+.imgH{ background-color: #00F;
+		float: left;
+		border:5px solid #000;}
+
+.RopH{	background-color: #00F;
+		margin:0px auto;
+		border:5px solid #000;}
+
+.RopM{	background-color: #FC4EF1;
+		margin:0px auto;
+		border:5px solid #000;}
+
+.Pag{ 		width:500px;
+			height:auto;
+			margin:0px auto}
+
+div div a, div div, .ini, .ini2{ 	text-decoration:none;
+			color:#FFF;}
+div div a:hover, .ini:hover, .ini2:hover{	color:#000;
+					font-size: 20px;}
+
+footer{		position:absolute;
+			left:0px;
+			right:0px;
+			bottom:0px;
+			height:100px;
+			z-index:0; 
+			margin:0px auto;
+			}
+
+
